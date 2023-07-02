@@ -98,6 +98,11 @@ const Projects = () => {
           {/* ROW 3 */}
           <Project title='Project 6' />
           <Project title='Project 7' />
+          <Project title='Project 8' />
+
+          {/* ROW 4*/}
+          <Project title='Project 9' />
+          <Project title='Project 10' />
           {/*Use a div element to display an empty space with a background color*/}
           <div
             className='flex justify-center text-center items-center p-10 bg-blue
